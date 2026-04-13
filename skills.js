@@ -17,10 +17,3 @@ function calculateQuotient(var1, var2) {
     return var1 / var2;
 }
 
-module.exports = {
-    calculateNumbers,
-    calculateDifference,
-    calculateProduct,
-    calculateQuotient
-};  
-
